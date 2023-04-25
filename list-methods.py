@@ -20,3 +20,4 @@ list2.pop();
 print(list2)
 
 
+# i love my goirlfriend <3
